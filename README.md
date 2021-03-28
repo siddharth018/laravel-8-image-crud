@@ -25,6 +25,9 @@ Put your credentils .env file.
     DB_USERNAME=root
     DB_PASSWORD=root@123
 ```
+``` Run Server
+php artisan storage:link
+```
 
 Step second: Run server
 
