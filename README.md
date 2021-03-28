@@ -1,6 +1,6 @@
-## Laravel 8 FullCalendar Tutorial
+## Laravel 8 Crud with Image Upload Tutorial
 
-Read More: https://realprogrammer.in/laravel-8-crud-with-image-upload-tutorial
+Read More: https://realprogrammer.in/laravel-8-crud-with-image-upload-tutorial/
 
 ## About
 
@@ -17,6 +17,7 @@ cp .env.example .env
 Put your credentils .env file.
 
 ```.env
+
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
     DB_PORT=3306
@@ -25,14 +26,13 @@ Put your credentils .env file.
     DB_PASSWORD=root@123
 ```
 
-
 Step second: Run server
 
 php artisan serve
 
 Check from this url
 
-http://127.0.0.1:8000/fullcalender
+http://127.0.0.1:8000/posts
 
 ## Youtube
 Join in youtube
